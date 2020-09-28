@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyWidge</string>
+    <string name="my_name">나의 이름은 이상호, 나의 이름은 이상호, 나의 이름은 이상호, 나의 이름은 이상호, 나의 이름은 이상호</string>
+    <string name="my_confirm">확인</string>
+    <string name="my_check_1">들었음</string>
+</resources>
