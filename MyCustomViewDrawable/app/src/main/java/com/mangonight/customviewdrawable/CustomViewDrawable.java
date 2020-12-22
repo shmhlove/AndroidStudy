@@ -48,7 +48,6 @@ public class CustomViewDrawable extends View {
         rect.resize(displayWidth, displayHeight*2/3);
         upperDrawable.setShape(rect);
         upperDrawable.setBounds(0,0,displayWidth, displayHeight*2/3);
-
         LinearGradient gradient = new LinearGradient(0,0,0,displayHeight*2/3, grayColor, blackColor, Shader.TileMode.CLAMP);
         Paint paint = upperDrawable.getPaint();
         paint.setShader(gradient);
@@ -56,6 +55,7 @@ public class CustomViewDrawable extends View {
         lowerDrawable = new ShapeDrawable();
         RectShape rect2 = new RectShape();
         rect2.resize(displayWidth, displayHeight*2/3);
+        lowerDrawable.getPaint().setColor(blackColor);
         lowerDrawable.setShape(rect2);
         lowerDrawable.setBounds(0,displayHeight*2/3, displayWidth,displayHeight);
     }

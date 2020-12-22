@@ -1,4 +1,4 @@
-#Sat Oct 17 08:36:34 KST 2020
+#Mon Dec 21 10:01:05 KST 2020
 base.0=C\:\\WorkSpace\\GitHub\\AndroidStudy\\MyCustomViewDrawable\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
