@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046441950415",
+    "project_id": "mypush-8ceeb",
+    "storage_bucket": "mypush-8ceeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046441950415:android:b7418db85ab83cb8110bba",
+        "android_client_info": {
+          "package_name": "com.mongonight.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046441950415-shsqce7ppdn2i0rekvof82k3h1bsqt06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXon0vZKd17b3knemWVQqB3EPJgcAoCOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046441950415-shsqce7ppdn2i0rekvof82k3h1bsqt06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
